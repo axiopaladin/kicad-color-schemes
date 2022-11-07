@@ -1,25 +1,22 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
     "name": "Axios Theme",
-    "description": "Designed by AxioPaladin, more readable than Altium",
-    "description_full": "Designed by AxioPaladin, made to be more readable than Altium",
+    "description": "A color theme designed by AxioPaladin, more readable than Altium",
+    "description_full": "A color theme designed by AxioPaladin, made to be more readable than Altium",
     "identifier": "com.github.pointhi.kicad-color-schemes.axios",
     "type": "colortheme",
     "author": {
-        "name": "Axio Paladin",
+        "name": "AxioPaladin",
         "contact": {
-            "web": "https://github.com/axiopaladin"
-        }
-    },
-    "maintainer": {
-        "name": "Thomas Pointhuber",
-        "contact": {
-            "web": "https://github.com/pointhi/kicad-color-schemes/"
+            "github": "https://github.com/axiopaladin",
+            "hackaday": "https://hackaday.io/axiopaladin",
+            "mastodon": "https://qoto.org/@axiopaladin",
+            "twitter": "https://twitter.com/axiopaladin"
         }
     },
     "license": "CC0-1.0",
     "resources": {
-        "Github": "https://github.com/pointhi/kicad-color-schemes"
+        "Github": "https://github.com/axiopaladin/kicad-color-schemes"
     },
     "versions": [{
         "version": "1.0",

@@ -15,7 +15,7 @@ REPOSITORY_JSON_PATH = ROOT_PATH / "repository.json"
 METADATA_FILEAME = "metadata.json"
 ICON_FILENAME = "icon.png"
 
-REPOSITORY_BASE_URI = "https://raw.githubusercontent.com/pointhi/kicad-color-schemes/master"
+REPOSITORY_BASE_URI = "https://raw.githubusercontent.com/axiopaladin/kicad-color-schemes/master"
 
 READ_SIZE = 65536
 
@@ -119,11 +119,11 @@ def write_repository_json():
         "$schema": "https://go.kicad.org/pcm/schemas/v1#/definitions/Repository",
         "maintainer": {
             "contact": {
-                "web": "https://github.com/pointhi/kicad-color-schemes/"
+                "web": "https://github.com/axiopaladin/kicad-color-schemes/"
             },
-            "name": "Thomas Pointhuber"
+            "name": "AxioPaladin"
         },
-        "name": "kicad-color-schemes repository by @pointhi",
+        "name": "Axios color themes for KiCad by AxioPaladin",
         "packages": {
             "sha256": packages_json_sha256,
             "update_time_utc": packages_json_update_time_utc.strftime("%Y-%m-%d %H:%M:%S"),

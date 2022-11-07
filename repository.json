@@ -2,21 +2,21 @@
     "$schema": "https://go.kicad.org/pcm/schemas/v1#/definitions/Repository",
     "maintainer": {
         "contact": {
-            "web": "https://github.com/pointhi/kicad-color-schemes/"
+            "web": "https://github.com/axiopaladin/kicad-color-schemes/"
         },
-        "name": "Thomas Pointhuber"
+        "name": "AxioPaladin"
     },
-    "name": "kicad-color-schemes repository by @pointhi",
+    "name": "Axios color themes for KiCad by AxioPaladin",
     "packages": {
-        "sha256": "fe8596418cff699726757be58ad0d61f682dbf587bb0cb48ab3080f67c6eaec6",
-        "update_time_utc": "2021-12-05 13:11:42",
-        "update_timestamp": 1638709902,
-        "url": "https://raw.githubusercontent.com/pointhi/kicad-color-schemes/master/packages.json"
+        "sha256": "9a9415fada19e13edcacd32c01c02285d007c874665f4b6bb1acd9c8f704271b",
+        "update_time_utc": "2022-11-07 00:28:12",
+        "update_timestamp": 1667780892,
+        "url": "https://raw.githubusercontent.com/axiopaladin/kicad-color-schemes/master/packages.json"
     },
     "resources": {
-        "sha256": "620853ca579fdb1c773d94ff18004fdc5c31866b2b611498c9ccc747cad8b095",
-        "update_time_utc": "2021-12-05 13:11:42",
-        "update_timestamp": 1638709902,
-        "url": "https://raw.githubusercontent.com/pointhi/kicad-color-schemes/master/resources.zip"
+        "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
+        "update_time_utc": "2022-11-07 00:28:12",
+        "update_timestamp": 1667780892,
+        "url": "https://raw.githubusercontent.com/axiopaladin/kicad-color-schemes/master/resources.zip"
     }
 }
